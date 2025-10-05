@@ -39,3 +39,4 @@ for i in range(step):
         cluster_assignments[k] = np.argmin(distances)
     for i in range(3):
         print(f"Cluster {i}: has {np.sum(cluster_assignments==i)} points")
+        
