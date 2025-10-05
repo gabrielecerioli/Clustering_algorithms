@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-beta=1.0
+beta=1 #STIFFNESS
 # Loading and trasforming into a numpy matrix the dataset
 df=pd.read_csv('Iris.csv')
 selected_columns = ['SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm']
@@ -43,26 +43,4 @@ for k in range(10):
 print(np.sum(responsibilities[:, 0]))
 print(np.sum(responsibilities[:, 1]))
 print(np.sum(responsibilities[:, 2]))
-
-'''
-for i in range(data_matrix.shape[0]):
-    distances = np.array([d(data_matrix[i], centroid) for centroid in initial_centroids])
-    cluster_assignments[i] = np.argmin(distances)
-print(cluster_assignments)
-
-
-for i in range(3):
-    print(f"Cluster {i}: has {np.sum(cluster_assignments==i)} points")
-
-step=10
-for i in range(step):
-    for j in range(3):
-        points_in_cluster = data_matrix[cluster_assignments == j]
-        if len(points_in_cluster) > 0:
-            initial_centroids[j] = np.mean(points_in_cluster, axis=0)
-    for k in range(data_matrix.shape[0]):
-        distances = np.array([d(data_matrix[k], centroid) for centroid in initial_centroids])
-        cluster_assignments[k] = np.argmin(distances)
-    for i in range(3):
-        print(f"Cluster {i}: has {np.sum(cluster_assignments==i)} points")
-        '''
+print(responsibilities)
