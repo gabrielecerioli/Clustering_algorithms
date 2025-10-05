@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df=pd.read_csv('Iris.csv')
+df=pd.read_csv('k_means/Iris.csv')
 
 selected_columns = ['SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm']
 data_matrix = df[selected_columns].to_numpy()
