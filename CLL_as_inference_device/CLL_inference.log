@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.10.4)  22 NOV 2025 21:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.10.4)  22 NOV 2025 23:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/gabriele/Desktop/Clustering_algorithms/CLL_evaluation_of_clustering/CLL_as_evaluator_of_clustering_quality.tex
-(/home/gabriele/Desktop/Clustering_algorithms/CLL_evaluation_of_clustering/CLL_as_evaluator_of_clustering_quality.tex
+**/home/gabriele/Desktop/Clustering_algorithms/CLL_as_inference_device/CLL_inference.tex
+(/home/gabriele/Desktop/Clustering_algorithms/CLL_as_inference_device/CLL_inference.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1023,15 +1023,8 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
- (./CLL_as_evaluator_of_clustering_quality.aux
-
-LaTeX Warning: Label `fig:iris_before' multiply defined.
-
-
-LaTeX Warning: Label `fig:iris_after' multiply defined.
-
-)
-\openout1 = `CLL_as_evaluator_of_clustering_quality.aux'.
+ (./CLL_inference.aux)
+\openout1 = `CLL_inference.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
@@ -1087,9 +1080,9 @@ LaTeX Font Info:    ... okay on input line 98.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 98.
-(./CLL_as_evaluator_of_clustering_quality.out) (./CLL_as_evaluator_of_clustering_quality.out)
+(./CLL_inference.out) (./CLL_inference.out)
 \@outlinefile=\write6
-\openout6 = `CLL_as_evaluator_of_clustering_quality.out'.
+\openout6 = `CLL_inference.out'.
 
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1130,121 +1123,102 @@ File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `CLL_as_evaluator_of_clustering_quality.bcf'.
+\openout5 = `CLL_inference.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'CLL_as_evaluator_of_clustering_quality.bbl' not found.
+Package biblatex Info: ... file 'CLL_inference.bbl' not found.
 
-No file CLL_as_evaluator_of_clustering_quality.bbl.
+No file CLL_inference.bbl.
 Package biblatex Info: Reference section=0 on input line 98.
 Package biblatex Info: Reference segment=0 on input line 98.
-<img/ictp-logo.jpg, id=15, 803.0pt x 339.2675pt>
+<img/ictp-logo.jpg, id=19, 803.0pt x 339.2675pt>
 File: img/ictp-logo.jpg Graphic file (type jpg)
 <use img/ictp-logo.jpg>
 Package pdftex.def Info: img/ictp-logo.jpg  used on input line 100.
 (pdftex.def)             Requested size: 426.79135pt x 180.32341pt.
-(./fluctuations.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 107.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 107.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 107.
  (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./img/ictp-logo.jpg>]
-<img/first_kmeans_clustering.png, id=27, 992.70876pt x 791.95876pt>
-File: img/first_kmeans_clustering.png Graphic file (type png)
-<use img/first_kmeans_clustering.png>
-Package pdftex.def Info: img/first_kmeans_clustering.png  used on input line 16.
-(pdftex.def)             Requested size: 209.1301pt x 166.83588pt.
-<img/final_clustering.png, id=28, 992.70876pt x 791.95876pt>
-File: img/final_clustering.png Graphic file (type png)
-<use img/final_clustering.png>
-Package pdftex.def Info: img/final_clustering.png  used on input line 22.
-(pdftex.def)             Requested size: 209.1301pt x 166.83588pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-<img/displacement of centroids.png, id=29, 704.6325pt x 471.7625pt>
-File: img/displacement of centroids.png Graphic file (type png)
-<use img/displacement of centroids.png>
-Package pdftex.def Info: img/displacement of centroids.png  used on input line 36.
-(pdftex.def)             Requested size: 426.79135pt x 285.74472pt.
-
-
-[2 <./img/first_kmeans_clustering.png> <./img/final_clustering.png>]) (./comparison.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/ictp-logo.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
-<img/GM_iris.png, id=35, 992.70876pt x 790.955pt>
-File: img/GM_iris.png Graphic file (type png)
-<use img/GM_iris.png>
-Package pdftex.def Info: img/GM_iris.png  used on input line 26.
-(pdftex.def)             Requested size: 209.1301pt x 166.62442pt.
-<img/GM+CLL_iris.png, id=36, 997.7275pt x 790.955pt>
-File: img/GM+CLL_iris.png Graphic file (type png)
-<use img/GM+CLL_iris.png>
-Package pdftex.def Info: img/GM+CLL_iris.png  used on input line 32.
-(pdftex.def)             Requested size: 209.1301pt x 165.77959pt.
+<img/mean_metric.png, id=29, 586.19pt x 464.73625pt>
+File: img/mean_metric.png Graphic file (type png)
+<use img/mean_metric.png>
+Package pdftex.def Info: img/mean_metric.png  used on input line 139.
+(pdftex.def)             Requested size: 426.79135pt x 338.36113pt.
 
 
-[3 <./img/displacement of centroids.png>]
-<img/GM_displacement.png, id=48, 704.6325pt x 471.7625pt>
-File: img/GM_displacement.png Graphic file (type png)
-<use img/GM_displacement.png>
-Package pdftex.def Info: img/GM_displacement.png  used on input line 42.
-(pdftex.def)             Requested size: 426.79135pt x 285.74472pt.
-)
+[2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
-[4 <./img/GM_iris.png> <./img/GM+CLL_iris.png> <./img/GM_displacement.png>]
+ []
 
-[5]
-runsystem(latexminted cleantemp  --timestamp 20251122211704 77E3BEC421D59E032AB5243C0D475948)...executed safely (allowed).
+<img/stddev_metric.png, id=38, 574.145pt x 464.73625pt>
+File: img/stddev_metric.png Graphic file (type png)
+<use img/stddev_metric.png>
+Package pdftex.def Info: img/stddev_metric.png  used on input line 147.
+(pdftex.def)             Requested size: 426.79135pt x 345.46661pt.
 
- (./CLL_as_evaluator_of_clustering_quality.aux)
+
+[3 <./img/mean_metric.png>]
+
+[4 <./img/stddev_metric.png>]
+runsystem(latexminted cleantemp  --timestamp 20251122230853 5840D65A8EF2229390F6A54C8643D857)...executed safely (allowed).
+
+ (./CLL_inference.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `CLL_as_evaluator_of_clustering_quality.out' has not changed.
-(rerunfilecheck)             Checksum: 566157B04C9768D9FC4A6C6F378CBB01;533.
-Package logreq Info: Writing requests to 'CLL_as_evaluator_of_clustering_quality.run.xml'.
-\openout1 = `CLL_as_evaluator_of_clustering_quality.run.xml'.
+Package rerunfilecheck Info: File `CLL_inference.out' has not changed.
+(rerunfilecheck)             Checksum: 8A09619DE739F469968988C2D27FDE73;452.
+Package logreq Info: Writing requests to 'CLL_inference.run.xml'.
+\openout1 = `CLL_inference.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44830 strings out of 473197
- 945355 string characters out of 5718605
- 1837891 words of memory out of 5000000
- 67489 multiletter control sequences out of 15000+600000
+ 44785 strings out of 473197
+ 943501 string characters out of 5718605
+ 1835577 words of memory out of 5000000
+ 67452 multiletter control sequences out of 15000+600000
  562876 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,16n,121p,801b,1781s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CLL_as_evaluator_of_clustering_quality.pdf (5 pages, 1156759 bytes).
+ 116i,7n,121p,771b,1775s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on CLL_inference.pdf (4 pages, 190087 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 64 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 52 words of extra memory for PDF output out of 10000 (max. 10000000)
 
