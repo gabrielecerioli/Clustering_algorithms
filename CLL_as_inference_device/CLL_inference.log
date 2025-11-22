@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.10.4)  22 NOV 2025 23:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.10.4)  22 NOV 2025 23:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1193,7 +1193,7 @@ Package pdftex.def Info: img/stddev_metric.png  used on input line 147.
 [3 <./img/mean_metric.png>]
 
 [4 <./img/stddev_metric.png>]
-runsystem(latexminted cleantemp  --timestamp 20251122230853 5840D65A8EF2229390F6A54C8643D857)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20251122231540 5840D65A8EF2229390F6A54C8643D857)...executed safely (allowed).
 
  (./CLL_inference.aux)
  ***********

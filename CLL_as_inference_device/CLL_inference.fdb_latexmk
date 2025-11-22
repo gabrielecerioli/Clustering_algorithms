@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber CLL_inference"] 0 "CLL_inference.bcf" "CLL_inference.bbl" "CLL_inference" 0 0
+["biber CLL_inference"] 0 "CLL_inference.bcf" "CLL_inference.bbl" "CLL_inference" 1763849742.18031 0
   "CLL_inference.bcf" 0 -1 0 "pdflatex"
   "references.bib" 0 -1 0 ""
   (generated)
   "CLL_inference.bbl"
   "CLL_inference.blg"
   (rewritten before read)
-["pdflatex"] 1763849333.35411 "/home/gabriele/Desktop/Clustering_algorithms/CLL_as_inference_device/CLL_inference.tex" "CLL_inference.pdf" "CLL_inference" 1763849336.12511 0
+["pdflatex"] 1763849740.28694 "/home/gabriele/Desktop/Clustering_algorithms/CLL_as_inference_device/CLL_inference.tex" "CLL_inference.pdf" "CLL_inference" 1763849742.18069 0
   "/etc/texmf/web2c/texmf.cnf" 1759591315.18001 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/gabriele/Desktop/Clustering_algorithms/CLL_as_inference_device/CLL_inference.tex" 1763849327.8654 4683 87239ec06e7bf7d06632395cf04fa5e1 ""
+  "/home/gabriele/Desktop/Clustering_algorithms/CLL_as_inference_device/CLL_inference.tex" 1763849738.1371 4683 87239ec06e7bf7d06632395cf04fa5e1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -229,11 +229,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1759591338 5467255 9a64d1b40e0b893fc5588ecce9d8accf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1759591431 3348606 670e2b4c965eb626d9370db5b3b0a806 ""
-  "CLL_inference.aux" 1763849335.80496 1103 13ea0e931e2f3033eec9c434bc95c041 "pdflatex"
+  "CLL_inference.aux" 1763849741.98215 1103 13ea0e931e2f3033eec9c434bc95c041 "pdflatex"
   "CLL_inference.bbl" 0 -1 0 "biber CLL_inference"
-  "CLL_inference.out" 1763849335.80696 452 8a09619de739f469968988c2d27fde73 "pdflatex"
-  "CLL_inference.run.xml" 1763849335.81033 2368 3e9e1311ae69d31ef39dfd74e3f33fb7 "pdflatex"
-  "CLL_inference.tex" 1763849327.8654 4683 87239ec06e7bf7d06632395cf04fa5e1 ""
+  "CLL_inference.out" 1763849741.98415 452 8a09619de739f469968988c2d27fde73 "pdflatex"
+  "CLL_inference.run.xml" 1763849741.98675 2368 3e9e1311ae69d31ef39dfd74e3f33fb7 "pdflatex"
+  "CLL_inference.tex" 1763849738.1371 4683 87239ec06e7bf7d06632395cf04fa5e1 ""
   "img/ictp-logo.jpg" 1763842670.31864 48642 45010cd234862ef2fe45c97c8440269a ""
   "img/mean_metric.png" 1763848572.97033 38398 e1209bf80270c9e995af3c8a28a8211f ""
   "img/stddev_metric.png" 1763848607.36676 39721 f8e94d1f3f5db2902cf752ea8fb779b7 ""
