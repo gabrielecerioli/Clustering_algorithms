@@ -458,6 +458,11 @@ INPUT ./img/GM_displacement.png
 INPUT ./img/GM_displacement.png
 INPUT ./img/GM_displacement.png
 INPUT ./img/GM_displacement.png
+INPUT ./img/number_clusters.png
+INPUT ./img/number_clusters.png
+INPUT ./img/number_clusters.png
+INPUT ./img/number_clusters.png
+INPUT ./img/number_clusters.png
 INPUT CLL_as_evaluator_of_clustering_quality.aux
 INPUT ./CLL_as_evaluator_of_clustering_quality.out
 INPUT ./CLL_as_evaluator_of_clustering_quality.out

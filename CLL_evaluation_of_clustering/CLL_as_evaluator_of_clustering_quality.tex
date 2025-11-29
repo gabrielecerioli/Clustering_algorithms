@@ -104,5 +104,14 @@
 \section{Comparison with distance between clusters}
 \input{comparison.tex}
 
+\section{Using Q to find the optimal number of clusters}
+Can we use the value of Q to find the optimal number of clusters in a dataset. \\
 
+We can try to iterate the Q estimation with different numbers of clusters, in the simple case of the Iris Dataset we get:
+
+\begin{figure} [H]
+\centering
+\includegraphics[width=\linewidth]{img/number_clusters.png}
+\end{figure}
+In this case the CLL seems useful to estimate the optimal number of clusters.
 \end{document}

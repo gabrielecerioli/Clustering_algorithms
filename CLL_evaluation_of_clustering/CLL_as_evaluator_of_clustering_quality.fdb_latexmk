@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber CLL_as_evaluator_of_clustering_quality"] 0 "CLL_as_evaluator_of_clustering_quality.bcf" "CLL_as_evaluator_of_clustering_quality.bbl" "CLL_as_evaluator_of_clustering_quality" 1763842628.1594 0
+["biber CLL_as_evaluator_of_clustering_quality"] 0 "CLL_as_evaluator_of_clustering_quality.bcf" "CLL_as_evaluator_of_clustering_quality.bbl" "CLL_as_evaluator_of_clustering_quality" 1764430119.66062 0
   "CLL_as_evaluator_of_clustering_quality.bcf" 0 -1 0 "pdflatex"
   "references.bib" 0 -1 0 ""
   (generated)
   "CLL_as_evaluator_of_clustering_quality.bbl"
   "CLL_as_evaluator_of_clustering_quality.blg"
   (rewritten before read)
-["pdflatex"] 1763842623.83166 "/home/gabriele/Desktop/Clustering_algorithms/CLL_evaluation_of_clustering/CLL_as_evaluator_of_clustering_quality.tex" "CLL_as_evaluator_of_clustering_quality.pdf" "CLL_as_evaluator_of_clustering_quality" 1763842628.15986 0
+["pdflatex"] 1764430117.12076 "/home/gabriele/Desktop/Clustering_algorithms/CLL_evaluation_of_clustering/CLL_as_evaluator_of_clustering_quality.tex" "CLL_as_evaluator_of_clustering_quality.pdf" "CLL_as_evaluator_of_clustering_quality" 1764430119.66098 0
   "/etc/texmf/web2c/texmf.cnf" 1759591315.18001 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/gabriele/Desktop/Clustering_algorithms/CLL_evaluation_of_clustering/CLL_as_evaluator_of_clustering_quality.tex" 1763842619.32213 2551 6b5d5dd42d6572db3f1096f9389f868a ""
+  "/home/gabriele/Desktop/Clustering_algorithms/CLL_evaluation_of_clustering/CLL_as_evaluator_of_clustering_quality.tex" 1764430116.90852 2994 b6cc1b41c11c5775aabaa2f8b819f0cb ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -233,11 +233,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1759591338 5467255 9a64d1b40e0b893fc5588ecce9d8accf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1759591431 3348606 670e2b4c965eb626d9370db5b3b0a806 ""
-  "CLL_as_evaluator_of_clustering_quality.aux" 1763842627.63933 1897 05e734218d29106b5d8da6691f95eb6e "pdflatex"
+  "CLL_as_evaluator_of_clustering_quality.aux" 1764430119.44757 2040 737f2b1e3023f61fe3b8f0cad9d779b9 "pdflatex"
   "CLL_as_evaluator_of_clustering_quality.bbl" 0 -1 0 "biber CLL_as_evaluator_of_clustering_quality"
-  "CLL_as_evaluator_of_clustering_quality.out" 1763842627.64333 533 566157b04c9768d9fc4a6c6f378cbb01 "pdflatex"
-  "CLL_as_evaluator_of_clustering_quality.run.xml" 1763842627.64856 2543 55989a0cceb5911fe36adc65bfbff893 "pdflatex"
-  "CLL_as_evaluator_of_clustering_quality.tex" 1763842619.32213 2551 6b5d5dd42d6572db3f1096f9389f868a ""
+  "CLL_as_evaluator_of_clustering_quality.out" 1764430119.44957 830 6f6cfed3be8b5b70e9ebcd70f8f71659 "pdflatex"
+  "CLL_as_evaluator_of_clustering_quality.run.xml" 1764430119.45162 2543 55989a0cceb5911fe36adc65bfbff893 "pdflatex"
+  "CLL_as_evaluator_of_clustering_quality.tex" 1764430116.90852 2994 b6cc1b41c11c5775aabaa2f8b819f0cb ""
   "comparison.tex" 1763839820.78718 2045 c6a442b9fcd3217912b571defe65982a ""
   "fluctuations.tex" 1763833630.52461 1663 b65784d7497800a6c74fe158d460dded ""
   "img/GM+CLL_iris.png" 1763839278.20615 326828 347448fd336fd8686ffe57909cff0ba4 ""
@@ -247,6 +247,7 @@
   "img/final_clustering.png" 1763820423.32176 333398 d1c640ef32a4b11ea6dd000644261a47 ""
   "img/first_kmeans_clustering.png" 1763820399.67083 182359 7f22521380bec063d59209b683be3617 ""
   "img/ictp-logo.jpg" 1763819685.80455 48642 45010cd234862ef2fe45c97c8440269a ""
+  "img/number_clusters.png" 1764430082.97475 33457 05bd15f38ef6f861c03d7497a82e86f8 ""
   (generated)
   "CLL_as_evaluator_of_clustering_quality.aux"
   "CLL_as_evaluator_of_clustering_quality.bcf"
